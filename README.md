@@ -27,8 +27,8 @@ A desktop GUI tool (PyQt6) for running basic, automated security checks against 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/xPh4nt0m-Byte/Web-Scanner.git
+cd Web-Scanner
 
 python -m venv venv
 # Windows
